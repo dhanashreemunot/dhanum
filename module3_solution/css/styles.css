@@ -1,0 +1,52 @@
+#header-nav{
+	border-radius: 0;
+	border:0;
+}
+.navbar-brand p{
+	font-size:30px;
+	
+}
+.navbar-nav li{
+		text-align: center;
+		border: 1px solid #e0ebeb;
+		
+	}
+.para{
+	
+	font-size: 20px;
+	color: white;
+}
+.navbar-nav li:hover{
+	font-weight: bold;
+	background-color: gray;
+}
+
+.des{
+	border:1px;
+	background-color:#ff4d94;
+	
+	margin-bottom:20px;
+	margin-left: 2px;
+	margin-right:2px;
+	padding:10px;
+	color:#330014;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+h2{
+	font-family: Impact, Charcoal, sans-serif;
+	margin-bottom: 10px;
+
+}
+.des h3{
+	text-align: center;
+	color:#52143d;
+	font-family:Georgia, serif;
+	font-weight: bold;
+}
+.des a{
+	color: #000080;
+}
+#maincontent{
+	width:100%;
+}
